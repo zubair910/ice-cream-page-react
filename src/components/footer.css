@@ -1,0 +1,23 @@
+.footerCardBox{
+    display: flex;
+    justify-content: space-around;
+    border-top: 2px solid black;
+    background-color: lightgreen;
+    padding: 20px 8px;
+    margin-top: 50px;
+}
+
+.footerCard{
+  border: 3px solid black;
+  text-align: center;
+  padding: 8px;
+  border-radius: 20px 20px;
+  margin-top:50px ;
+   
+}
+
+.footerCard>div{
+    position: absolute;
+    top: 50px;
+}
+
